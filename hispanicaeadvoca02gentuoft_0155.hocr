@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hispanicaeadvoca02gentuoft_0155.png"; bbox 0 0 2507 3657; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 800 1410 1772 1598">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 800 1410 1772 1598">
+     <span class='ocr_line' id='line_1_1' title="bbox 800 1410 1772 1471; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 800 1410 996 1469; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1070 1411 1445 1470; x_wconf 90' lang='lat' dir='ltr'>SECOND</span> <span class='ocrx_word' id='word_1_3' title='bbox 1520 1412 1772 1471; x_wconf 85' lang='lat' dir='ltr'>BOOK</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1235 1553 1328 1598; baseline -0.011 0"><span class='ocrx_word' id='word_1_4' title='bbox 1235 1553 1328 1598; x_wconf 89' lang='lat' dir='ltr'>OF</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 1678 2199 1865">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 1678 2199 1865">
+     <span class='ocr_line' id='line_1_3' title="bbox 354 1678 2199 1739; baseline 0.002 -4"><span class='ocrx_word' id='word_1_5' title='bbox 354 1678 550 1735; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_6' title='bbox 612 1679 884 1736; x_wconf 85' lang='lat' dir='ltr'>PLEAS</span> <span class='ocrx_word' id='word_1_7' title='bbox 940 1679 1060 1737; x_wconf 90' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_8' title='bbox 1116 1685 1176 1737; x_wconf 85' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1231 1680 1617 1738; x_wconf 84' lang='lat' dir='ltr'>SPANISH</span> <span class='ocrx_word' id='word_1_10' title='bbox 1683 1680 2199 1739; x_wconf 84' lang='lat' dir='ltr'><strong>ADVOCATE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1232 1818 1325 1865; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1232 1818 1325 1865; x_wconf 90' lang='lat' dir='ltr'>OF</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 1945 1772 2021">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 811 1945 1772 2021">
+     <span class='ocr_line' id='line_1_5' title="bbox 811 1945 1772 2021; baseline 0.002 -19"><span class='ocrx_word' id='word_1_12' title='bbox 811 1945 1280 2004; x_wconf 84' lang='lat' dir='ltr'>ALBERICO</span> <span class='ocrx_word' id='word_1_13' title='bbox 1354 1946 1772 2021; x_wconf 89' lang='lat' dir='ltr'>GENTILI,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 855 2052 1696 2117">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 855 2052 1696 2117">
+     <span class='ocr_line' id='line_1_6' title="bbox 855 2052 1696 2117; baseline 0.002 -16"><span class='ocrx_word' id='word_1_14' title='bbox 855 2052 1185 2112; x_wconf 69' lang='lat' dir='ltr'>Iurisconsult,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1220 2053 1397 2117; x_wconf 75' lang='lat' dir='ltr'><em>Regius</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1447 2055 1696 2116; x_wconf 72' lang='lat' dir='ltr'><em>Professor</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
